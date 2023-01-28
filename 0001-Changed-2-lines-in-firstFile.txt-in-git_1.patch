@@ -1,0 +1,24 @@
+From c9bf95414cbd3c37a802f9c9f7d0cdd2f3075f3c Mon Sep 17 00:00:00 2001
+From: Korotkova Julia <korotkovayuliav@gmail.com>
+Date: Sat, 28 Jan 2023 12:57:53 +0100
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 584ba87..ed4ba94 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-
+-
++changed1
++changed1
+ 
+ 
+ 
+-- 
+2.39.1
+
